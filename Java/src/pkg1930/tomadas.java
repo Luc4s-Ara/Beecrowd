@@ -21,5 +21,6 @@ public class tomadas {
         maxAparelhos = soma - 3;
 
         System.out.println(maxAparelhos);
+        sc.close();
     }
 }
